@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "jekyll"
+date:   2013-06-14 21:20:44
+category: geek
+tags: jekyll hadoop wordpress
+excerpt: xxx
+---
+
+我来写第一个hello world吧！
+{% highlight yaml %}
+a: 1
+b: 2
+c: "123"
+{% endhighlight %}
+
+{% highlight html %}
+<a>123</a>
+<a class="123">123</a>
+{% endhighlight %}
+
+有空可以看看我，[masr.in](http://masr.in)
